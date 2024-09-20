@@ -8,7 +8,12 @@ contributor:
     deathdate: 1911
     gutenberg_agent_id: '49634'
     url: http://www.gutenberg.org/2009/agents/49634
+covers:
+- cover_type: archival
+  image_path: 74272-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74272#The-charm-of-Venice-b-An-anthology
 gutenberg_issued: '2024-08-17'
 gutenberg_type: Text
 identifiers:
